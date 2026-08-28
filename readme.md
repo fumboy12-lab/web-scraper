@@ -17,3 +17,6 @@ A production-ready Python web scraping solution designed to extract e-commerce p
    ```bash
    git clone [https://github.com/fumboy12-lab/web-scraper.git](https://github.com/fumboy12-lab/web-scraper.git)
    cd web-scraper
+
+
+
