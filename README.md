@@ -12,11 +12,10 @@ A production-ready Python web scraping solution designed to extract e-commerce p
 * **Libraries:** `requests`, `beautifulsoup4`, `pandas`, `openpyxl`
 
 ## 📦 Quick Start
-git clone https://github.com/fumboy12-lab/web-scraper.git
+
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/fumboy12-lab/web-scraper.git](https://github.com/fumboy12-lab/web-scraper.git)
    cd web-scraper
-
 
 
